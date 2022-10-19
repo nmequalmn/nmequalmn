@@ -1,4 +1,4 @@
-<img style="width: 100%;" src="https://www.wallpaperuse.com/wallp/59-595957_m.png"/>
+<img style="width: 100%;" src="https://64.media.tumblr.com/4a09039af7734c6db73d8a085e466256/tumblr_p3chuftBUN1vy2tgqo1_1280.png"/>
 
 ## 🌸 Konnichiwa! 🌸
 - 🏯 I’m currently learning in ITMO (first course, <a style="color: white;" href="https://en.itmo.ru/en/program/182/Neurotechnologies%20and%20Programming.htm">neurotechnologies and programming</a>). 
