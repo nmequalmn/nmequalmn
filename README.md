@@ -1,4 +1,7 @@
-### Hi there 👋
+## 🌸 Konnichiwa! 🌸
+- 🏯 I’m currently learning in ITMO (first course, <a style="color: white;" href="https://en.itmo.ru/en/program/182/Neurotechnologies%20and%20Programming.htm">neurotechnologies and programming</a>). 🏯
+- 🏣 I like ML, DL and Math. 🏣
+- ⌨️ I can programming on Python, C++ and Java. ⌨️
 
 <!--
 **nmequalmn/nmequalmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
